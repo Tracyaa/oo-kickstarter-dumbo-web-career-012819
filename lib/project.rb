@@ -8,4 +8,6 @@ class Project
     @backers = []
   end
 
+  def self.all
+
 end
