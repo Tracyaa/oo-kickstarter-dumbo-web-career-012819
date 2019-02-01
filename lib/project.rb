@@ -10,7 +10,7 @@ def class Project
   end
 
   def add_backer(person)
-    self.backers << persom
+    self.backers << person
 
   end
 
