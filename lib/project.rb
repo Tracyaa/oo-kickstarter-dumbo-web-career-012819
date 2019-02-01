@@ -6,10 +6,10 @@ def class Project
   def initialize(title)
     @title = title
     @backers = []
-    
+
   end
 
-  def add_backer(name)
+  def add_backer()
     self.backers << name
 
   end
