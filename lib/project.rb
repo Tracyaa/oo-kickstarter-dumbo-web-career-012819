@@ -13,6 +13,8 @@ class Project
     @backers << name
   end
 
-  def add_
+  def add_backer
+
+  end
 
 end
