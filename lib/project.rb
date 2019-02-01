@@ -2,7 +2,7 @@ class Project
   attr_accessor :string, :backers
 
   def initialize(title)
-    @string = string
+    @title = string
     @backers = []
   end
 end
