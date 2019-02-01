@@ -13,5 +13,6 @@ class Project
     @backers << name
   end
 
+  def add_
 
 end
