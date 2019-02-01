@@ -8,5 +8,5 @@ class Backer
     @backer_projects = []
   end
 
-  
+
 end
